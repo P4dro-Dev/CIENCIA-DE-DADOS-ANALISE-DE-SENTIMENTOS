@@ -1,4 +1,4 @@
-# 🧠 Análise de Sentimentos em Português 🇧🇷
+# 💻| Análise de Sentimentos em Português 🇧🇷
 
 Este projeto usa um modelo para classificar textos como POSITIVO, NEGATIVO ou NEUTRO.
 
